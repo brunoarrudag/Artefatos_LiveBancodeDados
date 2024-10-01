@@ -3,8 +3,8 @@
 > ### Data de transmissão: 27/09/2024
 > ### Link de acesso: https://www.youtube.com/live/r-jxUkxg2Zw
 > ### Participantes:
->  > #### *Bruno Arruda Guimarães*
->  > #### *Cloves Rocha*
+>  > #### *Bruno Guimarães*: https://linktr.ee/eubguimaraes
+>  > #### *Cloves Rocha*: https://linktr.ee/clovesrocha
 >
 > ## Descrição dos objetos contidos neste repositório:
 >>### Arquivo da apresentação:*Como trabalhar com BDD da modelagem a implementação.pdf*
